@@ -12,6 +12,7 @@
             background-size: auto;      
             z-index: -1;
             overflow-x: hidden;
+            opacity: 0.2;
         }
 
         /* RL-specific Background Animation */
