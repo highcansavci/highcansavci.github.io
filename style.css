@@ -6,8 +6,11 @@
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #000000 0%, #1a1a1a 50%, #2d2d2d 100%);
-            color: #ffffff;
+            background-image: url('images/874eed5d-4a00-486f-baa7-7c594f078ab1.png');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            z-index: -1; /* arkaya atar */
             overflow-x: hidden;
         }
 
