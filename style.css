@@ -8,7 +8,7 @@
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;            
         }
 
-        body::before {
+        .bg {
             background-image: url('images/874eed5d-4a00-486f-baa7-7c594f078ab1.png');
             background-size: cover;
             background-repeat: repeat;
